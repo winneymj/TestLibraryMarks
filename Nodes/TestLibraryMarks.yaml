@@ -1,0 +1,10 @@
+Name: TestLibraryMarks
+Type: ObjectLibraryProjectFolder
+Children:
+- File: Items/Items.yaml
+- File: Types/Types.yaml
+- File: Translations/Translations.yaml
+- Name: BranchingEnabled
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
