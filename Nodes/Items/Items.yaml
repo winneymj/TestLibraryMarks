@@ -13,19 +13,6 @@ Children:
   - Class: Reference
     Type: HasComponent
     Target: g=3fb01a0f1b72a634847498f18db086b1
-- Name: Label19
-  Type: ObjectLibraryItem
-  Children:
-  - Name: Label99
-    Id: g=3fb01a0f1b72a634847498f18db086b1
-    Supertype: Label
-    ReferenceType: HasComponent
-    Children:
-    - Name: Text
-      Type: BaseDataVariableType
-      DataType: LocalizedText
-      ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Label6"}
 - Name: EditableLabel3
   Type: ObjectLibraryItem
   Children:
@@ -48,3 +35,16 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 120.0
+- Name: Label20
+  Type: ObjectLibraryItem
+  Children:
+  - Name: Label20
+    Id: g=3fb01a0f1b72a634847498f18db086b1
+    Supertype: Label
+    ReferenceType: HasComponent
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Label6"}
