@@ -86,10 +86,10 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 80.0
-- Name: Label23
+- Name: Label24
   Type: ObjectLibraryItem
   Children:
-  - Name: Label23
+  - Name: Label24
     Id: g=3fb01a0f1b72a634847498f18db086b1
     Supertype: Label
     ReferenceType: HasComponent
