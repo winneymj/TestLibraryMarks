@@ -13,10 +13,10 @@ Children:
   - Class: Reference
     Type: HasComponent
     Target: g=3fb01a0f1b72a634847498f18db086b1
-- Name: Label20
+- Name: Label21
   Type: ObjectLibraryItem
   Children:
-  - Name: Label20
+  - Name: Label21
     Id: g=3fb01a0f1b72a634847498f18db086b1
     Supertype: Label
     ReferenceType: HasComponent
