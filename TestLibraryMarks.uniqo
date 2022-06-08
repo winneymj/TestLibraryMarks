@@ -15,9 +15,5 @@ Project:
    Uri: 'urn:QPlatform:HMIProject'
    Module: QPlatform.HMIProject
    Version: 10.2.0.0
-  5:
-   Uri: 'urn:QPlatform:UI'
-   Module: QPlatform.UI
-   Version: 44.0.0.0
  Nodes:
  - File: Nodes/TestLibraryMarks.yaml
