@@ -1,10 +1,10 @@
 Name: Items
 Type: FolderType
 Children:
-- Name: SpinBox1
+- Name: SpinBox2
   Type: ObjectLibraryItem
   Children:
-  - Name: SpinBox1
+  - Name: SpinBox2
     Id: g=18089cd445007115e7c6ac71d56210bf
     Supertype: SpinBox
     ReferenceType: HasComponent
@@ -18,5 +18,5 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 80.0
-- Name: Label7
+- Name: Label9
   Type: ObjectLibraryItem
