@@ -14,3 +14,20 @@ Children:
       DataType: LocalizedText
       ModellingRule: Optional
       Value: {"LocaleId":"en-US","Text":"Label6"}
+- Name: SpinBox1
+  Type: ObjectLibraryItem
+  Children:
+  - Name: SpinBox1
+    Id: g=18089cd445007115e7c6ac71d56210bf
+    Supertype: SpinBox
+    ReferenceType: HasComponent
+    Children:
+    - Name: Value
+      Type: BaseDataVariableType
+      DataType: Double
+      Value: 0.0
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 80.0
