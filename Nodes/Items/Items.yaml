@@ -1,7 +1,7 @@
 Name: Items
 Type: FolderType
 Children:
-- Name: SpinBox1
+- Name: SpinBox2
   Type: ObjectLibraryItem
   Children:
   - Name: SpinBox2
