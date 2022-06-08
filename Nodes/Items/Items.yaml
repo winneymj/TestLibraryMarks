@@ -20,3 +20,5 @@ Children:
       Value: 80.0
 - Name: Label9
   Type: ObjectLibraryItem
+- Name: Label10
+  Type: ObjectLibraryItem
