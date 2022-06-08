@@ -4,6 +4,91 @@ Children:
 - Name: Label7
   Type: ObjectLibraryItem
   Children:
+  - Class: Reference
+    Type: HasComponent
+    Target: g=3fb01a0f1b72a634847498f18db086b1
+- Name: Label99
+  Type: ObjectLibraryItem
+  Children:
+  - Class: Reference
+    Type: HasComponent
+    Target: g=3fb01a0f1b72a634847498f18db086b1
+- Name: EditableLabel3
+  Type: ObjectLibraryItem
+  Children:
+  - Name: EditableLabel3
+    Id: g=ce764b937b9ff260d53d50f92180afbb
+    Supertype: EditableLabel
+    ReferenceType: HasComponent
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      Value: {"LocaleId":"en-US","Text":"EditableLabel1"}
+    - Name: LeftMargin
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 12.0
+    - Name: TopMargin
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 120.0
+- Name: SpinBox1
+  Type: ObjectLibraryItem
+  Children:
+  - Name: SpinBox1
+    Id: g=dc81b040fadacf4dcaa13ae4017d784f
+    Supertype: SpinBox
+    ReferenceType: HasComponent
+    Children:
+    - Name: Value
+      Type: BaseDataVariableType
+      DataType: Double
+      Value: 0.0
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 80.0
+- Name: SpinBox11
+  Type: ObjectLibraryItem
+  Children:
+  - Name: SpinBox11
+    Id: g=2d3e948dc5c0c48c58b15b2e394cf670
+    Supertype: SpinBox
+    ReferenceType: HasComponent
+    Children:
+    - Name: Value
+      Type: BaseDataVariableType
+      DataType: Double
+      Value: 0.0
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 80.0
+- Name: SpinBox12
+  Type: ObjectLibraryItem
+  Children:
+  - Name: SpinBox12
+    Id: g=02dbeba36dfac2c92ecc21a88ee759bc
+    Supertype: SpinBox
+    ReferenceType: HasComponent
+    Children:
+    - Name: Value
+      Type: BaseDataVariableType
+      DataType: Double
+      Value: 0.0
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 80.0
+- Name: Label25
+  Type: ObjectLibraryItem
+  Children:
   - Name: Label7
     Id: g=3fb01a0f1b72a634847498f18db086b1
     Supertype: Label
