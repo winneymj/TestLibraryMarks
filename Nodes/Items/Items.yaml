@@ -4,6 +4,12 @@ Children:
 - Name: Label2
   Type: ObjectLibraryItem
   Children:
+  - Class: Reference
+    Type: HasComponent
+    Target: g=3fb01a0f1b72a634847498f18db086b1
+- Name: Label3
+  Type: ObjectLibraryItem
+  Children:
   - Name: Label2
     Id: g=3fb01a0f1b72a634847498f18db086b1
     Supertype: Label
@@ -13,4 +19,4 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Label2"}
+      Value: {"LocaleId":"en-US","Text":"Label6"}
