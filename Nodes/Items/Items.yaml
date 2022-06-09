@@ -14,3 +14,41 @@ Children:
       DataType: LocalizedText
       ModellingRule: Optional
       Value: {"LocaleId":"en-US","Text":"Label6"}
+- Name: SpinBox2
+  Type: ObjectLibraryItem
+  Children:
+  - Name: SpinBox2
+    Id: g=18089cd445007115e7c6ac71d56210bf
+    Supertype: SpinBox
+    ReferenceType: HasComponent
+    Children:
+    - Name: Value
+      Type: BaseDataVariableType
+      DataType: Double
+      Value: 0.0
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 80.0
+- Name: Label9
+  Type: ObjectLibraryItem
+- Name: Label10
+  Type: ObjectLibraryItem
+- Name: SpinBox1
+  Type: ObjectLibraryItem
+  Children:
+  - Name: SpinBox1
+    Id: g=dfc152dffb96204a9ddb99464113f721
+    Supertype: SpinBox
+    ReferenceType: HasComponent
+    Children:
+    - Name: Value
+      Type: BaseDataVariableType
+      DataType: Double
+      Value: 0.0
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 80.0
