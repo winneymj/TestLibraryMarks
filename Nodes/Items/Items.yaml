@@ -1,10 +1,10 @@
 Name: Items
 Type: FolderType
 Children:
-- Name: Label6
+- Name: Label1
   Type: ObjectLibraryItem
   Children:
-  - Name: Label6
+  - Name: Label1
     Id: g=3fb01a0f1b72a634847498f18db086b1
     Supertype: Label
     ReferenceType: HasComponent
