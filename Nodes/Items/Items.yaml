@@ -1,11 +1,11 @@
 Name: Items
 Type: FolderType
 Children:
-- Name: Label6
+- Name: Label3
   Type: ObjectLibraryItem
   Children:
-  - Name: Label6
-    Id: g=3fb01a0f1b72a634847498f18db086b1
+  - Name: Label3
+    Id: g=70b815c7a56a74ecc3e5b64137a61976
     Supertype: Label
     ReferenceType: HasComponent
     Children:
@@ -13,4 +13,4 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Label6"}
+      Value: {"LocaleId":"en-US","Text":"Label1"}
