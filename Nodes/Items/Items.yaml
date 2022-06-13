@@ -17,6 +17,12 @@ Children:
 - Name: Label5
   Type: ObjectLibraryItem
   Children:
+  - Class: Reference
+    Type: HasComponent
+    Target: g=434b362ce96b52df823e2f99df5a6400
+- Name: Label4
+  Type: ObjectLibraryItem
+  Children:
   - Name: Label5
     Id: g=434b362ce96b52df823e2f99df5a6400
     Supertype: Label
