@@ -10,7 +10,7 @@ Project:
   2:
    Uri: 'urn:QPlatform:CoreBase'
    Module: QPlatform.CoreBase
-   Version: 8.0.0.0
+   Version: 8.1.0.0
   3:
    Uri: 'urn:QPlatform:HMIProject'
    Module: QPlatform.HMIProject
