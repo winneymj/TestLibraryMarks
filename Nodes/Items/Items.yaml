@@ -47,3 +47,16 @@ Children:
       DataType: LocalizedText
       ModellingRule: Optional
       Value: {"LocaleId":"en-US","Text":"Label3"}
+- Name: Label32
+  Type: ObjectLibraryItem
+  Children:
+  - Name: Label32
+    Id: g=2077ae18a84eee1fb4b2b731097f6c4b
+    Supertype: Label
+    ReferenceType: HasComponent
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Label3"}
